@@ -1,0 +1,7 @@
+import org.springframework.web.util.pattern.CaptureVariablePathElement;
+public class FunctionUse145 {
+public void funcUse() {
+CaptureVariablePathElement capturevariablepathelement = new CaptureVariablePathElement();
+capturevariablepathelement.toString();
+}
+}
